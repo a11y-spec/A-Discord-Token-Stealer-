@@ -9,4 +9,3 @@
 3. Run worker.py also you need to enable discord developer mode for copying the User ID.
 4. skiddder.py is the code for running TK Window.
 
-###Don't call me Skidder because you are Skidder too.
