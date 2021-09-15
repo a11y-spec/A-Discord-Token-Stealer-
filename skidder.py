@@ -3,7 +3,7 @@ import subprocess
 
 
 try:
-    mem = pymem.Pymem("cmd.exe") ### reads memory of notepad.exe
+    mem = pymem.Pymem("cmd.exe") ### reads memory of cmd.exe
 except:
     subprocess.Popen("cmd.exe")
     mem = pymem.Pymem("cmd.exe")
