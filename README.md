@@ -4,8 +4,8 @@
 
 2. Install modules
    ```sh
-   pip install -r requirements.txt
+   pip install requests,pymem
    ```
-3. Run worker.py also you need to enable discord developer mode for copying the User ID.
-4. skidder.py is the code for running TK Window.
+3. Run worker.py.
+4. skidder.py is the code for running TK Window it will be running from worker.py so no need to run it.
 
