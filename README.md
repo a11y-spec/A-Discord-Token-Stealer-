@@ -7,5 +7,5 @@
    pip install -r requirements.txt
    ```
 3. Run worker.py also you need to enable discord developer mode for copying the User ID.
-4. skiddder.py is the code for running TK Window.
+4. skidder.py is the code for running TK Window.
 
